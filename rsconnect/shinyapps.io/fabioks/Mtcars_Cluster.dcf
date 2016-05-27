@@ -1,9 +1,0 @@
-name: Mtcars_Cluster
-account: fabioks
-server: shinyapps.io
-appId: 104605
-bundleId: 463878
-url: https://fabioks.shinyapps.io/Mtcars_Cluster/
-when: 1464307886.93369
-asMultiple: FALSE
-asStatic: FALSE
